@@ -30,4 +30,14 @@ The main challenge was representing a three-dimensional world in only two dimens
 
 What can you power up with one billion iPhones? The total power from the batteries of all the iPhones that were sold sums up to about 6.5 GW. To help you understand this quantity, NASA calculated that to launch a space shuttle 9 GW are needed — so just give it another year for enough iPhones to be sold and we can use them to travel to the Moon!
 
-The project shows 
+The project allows you to collect the energy of the iPhones gradually and at each step the corresponding power equivalent is displayed. The interaction takes place via mouse clicking, specifically via holding down the mouse botton. While the mouse is pressed, the iPhones start to pile up and the energy starts accumulating. But keep holding! If you let go, all the accumulated power will be dissipated and you'll have to start over.
+
+The canvas is scalable to fit in different sizes and the rows of iPhones are calculated accordingly. The biggest challange was to get the iPhones to pile up correctly, meaning to fill one row of a specific length and then continuing from the head of the second row and so on. It was important that, each time the mouse was released, the iPhones would zero out and start over when holding the mouse button clicked again. This was achieved with the *mouseIsPressed* property in p5js that, when in *true* state, a *reminder (%)* operator would set the x position of the iPhones correctly inside a *for cycle*.
+
+
+
+
+
+
+
+
