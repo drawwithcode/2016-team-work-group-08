@@ -8,22 +8,12 @@ That’s what our project is about: taking the device out of your pocket and bri
 
 Each one of us developed a different sort of interaction with the computer that could better represent each of our decontextualizations. All through JavaScript.
 
-
-### CHALLENGES
-
-### DIFFICULTIES
-
-The main challenges where linked to the partial knowledge of coding in JavaScript, especially the connection and execution of commands following the activations of a specific event or interaction.
-
-
-
-
-
 ## Price
 
 My project aims to presente the turnover around the iPhones.
 And it’s huge. Through a simple metaphor, selling a good swiping within a cash register (and earring the familiar sound) I want to make the user feel the complexity and the huge number of it.
 
+The main challenges where linked to the partial knowledge of coding in JavaScript, especially the connection and execution of commands following the activations of a specific event or interaction.
 
 ## Length
 
