@@ -1,7 +1,7 @@
 # One Billion iPhones
 
 The idea of the project is to represent the huge utilization of smartphones, in particular the iconic Apple device, the iPhone.
-An iPhone represent many things: high technology, luxury, a good usage of design and also a part of out daily life.
+An iPhone represents many things: high technology, luxury, a good usage of design and also a part of out daily life.
 But what if it could represent other things?
 What if you start to use your iPhone to measure things?
 That’s what our project is about: taking the device out of your pocket and bringing it off scale to use it out of its context.
@@ -11,7 +11,7 @@ Each one of us developed a different sort of interaction with the computer that 
 
 ### CHALLENGES
 
-DIFFICULTIES
+### DIFFICULTIES
 
 The main challenges where linked to the partial knowledge of coding in JavaScript, especially the connection and execution of commands following the activations of a specific event or interaction.
 
@@ -38,3 +38,6 @@ The main challenge was representing a three-dimensional world in only two dimens
 
 ## Power
 
+What can you power up with one billion iPhones? The total power from the batteries of all the iPhones that were sold sums up to about 6.5 GW. To help you understand this quantity, NASA calculated that to launch a space shuttle 9 GW are needed — so just give it another year for enough iPhones to be sold and we can use them to travel to the Moon!
+
+The project shows 
